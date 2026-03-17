@@ -18,9 +18,11 @@ Topics covered across the course:
 
 ## 📁 Repository Structure
 ```
-├── requests.ipynb               # Basic API requests — lesson
-├── requests_exercise.ipynb      # Basic API requests — exercise
-└── ...                          # More notebooks added as course progresses
+├── requests.ipynb                  # Basic API requests — lesson
+├── requests_exercise.ipynb         # Basic API requests — exercise
+├── system_prompt.ipynb             # System prompts — lesson
+├── system_prompt_exercise.ipynb    # System prompts — exercise
+└── ...                             # More notebooks added as course progresses
 ```
 
 ## 🛠️ Setup
