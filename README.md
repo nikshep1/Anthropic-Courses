@@ -18,11 +18,14 @@ Topics covered across the course:
 
 ## 📁 Repository Structure
 ```
-├── requests.ipynb                  # Basic API requests — lesson
-├── requests_exercise.ipynb         # Basic API requests — exercise
-├── system_prompt.ipynb             # System prompts — lesson
-├── system_prompt_exercise.ipynb    # System prompts — exercise
-└── ...                             # More notebooks added as course progresses
+├── requests.ipynb                      # Basic API requests — lesson
+├── requests_exercise.ipynb             # Basic API requests — exercise
+├── system_prompt.ipynb                 # System prompts — lesson
+├── system_prompt_exercise.ipynb        # System prompts — exercise
+├── temperature.ipynb                   # Temperature & model parameters — lesson
+├── Streaming.ipynb                     # Streaming responses — lesson
+├── Structured_Output_exercise.ipynb    # Structured outputs & stop sequences — exercise
+└── ...                                 # More notebooks added as course progresses
 ```
 
 ## 🛠️ Setup
