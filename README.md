@@ -24,6 +24,7 @@ Topics covered across the course:
 ├── system_prompt_exercise.ipynb        # System prompts — exercise
 ├── temperature.ipynb                   # Temperature & model parameters — lesson
 ├── Streaming.ipynb                     # Streaming responses — lesson
+├── Structured_output.ipynb             # Structured outputs & stop sequences — lesson
 ├── Structured_Output_exercise.ipynb    # Structured outputs & stop sequences — exercise
 └── ...                                 # More notebooks added as course progresses
 ```
